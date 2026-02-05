@@ -3,6 +3,12 @@
 **Analyze real-world three-phase power quality data with a focus on THD and harmonic currents.**  
 This project transforms raw panel-level measurements into clean, analysis-ready time series, computes rolling statistics, and provides insight into short-term power quality variations.
 
+![Alt text for accessibility](figures/THD1-30-min-mean-and-anomalies.png)
+**Figure 1:** Mean and anomalies for THD (30 min) for Phase 1
+
+![Alt text for accessibility](figures/THD3-rolling-stats.png)
+**Figure 1:** Rolling Stats (5 min) for Phase 3
+
 ---
 
 ## Dataset
