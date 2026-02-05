@@ -56,7 +56,8 @@ Compute rolling statistics to capture transient and short-term variations:
 ---
 
 ## Repository Structure
-
+```
+.
 ├── data/
 │ ├── panels/ # Raw CLEMD panel files
 │ └── panel_aggregate.csv # Cleaned, processed dataset
@@ -66,7 +67,7 @@ Compute rolling statistics to capture transient and short-term variations:
 ├── notebooks/
 │ └── thd-and-harmonics.ipynb
 └── README.md
-
+```
 ---
 
 ## Why This Project
