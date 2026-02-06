@@ -6,7 +6,6 @@ This project transforms raw panel-level measurements into clean, analysis-ready 
 ![Alt text for accessibility](figures/THD1-30-min-mean-and-anomalies.png)
 **Figure 1:** Mean and anomalies for THD (30 min) for Phase 1
 
-r"C:\Users\User\Desktop\Python_files\Grid-Power-Quality-Analyser-China\figures\THD1-30-min-mean-and-anomalies.png"
 ---
 
 ## Dataset
