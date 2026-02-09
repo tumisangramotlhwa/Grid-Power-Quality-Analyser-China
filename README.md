@@ -10,13 +10,9 @@ This project transforms raw panel-level measurements into clean, analysis-ready 
 
 ## Why This Project
 
-- Uses **real grid data**, not synthetic signals
-- Focused on **power quality analysis**
-- Scalable across multiple panels
-- Mirrors analysis patterns used in:
-  - Grid monitoring
-  - DER integration
-  - Energy storage studies
+Utility-scale energy systems require continuous monitoring of power quality and harmonic behavior to ensure compliance with grid codes and identify emerging issues early.
+
+This project analyzes real panel-level grid data to explore short-term THD and harmonic behavior using rolling statistics commonly applied in utility and DER monitoring contexts.
 
 ---
 
