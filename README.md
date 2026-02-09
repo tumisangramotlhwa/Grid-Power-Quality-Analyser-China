@@ -8,6 +8,18 @@ This project transforms raw panel-level measurements into clean, analysis-ready 
 
 ---
 
+## Why This Project
+
+- Uses **real grid data**, not synthetic signals
+- Focused on **power quality analysis**
+- Scalable across multiple panels
+- Mirrors analysis patterns used in:
+  - Grid monitoring
+  - DER integration
+  - Energy storage studies
+
+---
+
 ## Dataset
 
 - **Source:** China Electric Load Monitoring Dataset (CLEMD)
@@ -71,18 +83,6 @@ Compute rolling statistics to capture transient and short-term variations:
 │ └── thd-and-harmonics.ipynb
 └── README.md
 ```
----
-
-## Why This Project
-
-- Uses **real grid data**, not synthetic signals
-- Focused on **power quality analysis**
-- Scalable across multiple panels
-- Mirrors analysis patterns used in:
-  - Grid monitoring
-  - DER integration
-  - Energy storage studies
-
 ---
 
 ## Future Extensions
